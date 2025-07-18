@@ -1,5 +1,5 @@
 
-# 🏦 DeFi Credit Scoring Engine for Aave V2
+# 🏦 DeFi Credit Scoring for Aave V2
 
 This project uses machine learning to assign a **credit score (0–1000)** to DeFi wallets based on their historical Aave V2 transaction data.
 It aims to quantify trustworthiness of wallets in lending/borrowing protocols using only **on-chain behavior**.
